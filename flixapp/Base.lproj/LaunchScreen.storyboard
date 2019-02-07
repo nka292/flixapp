@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" insetsLayoutMarginsFromSafeArea="NO" image="launch_image" translatesAutoresizingMaskIntoConstraints="NO" id="ImM-SY-bNG">
-                                <rect key="frame" x="118" y="201" width="138" height="139"/>
+                                <rect key="frame" x="118" y="209" width="138" height="139"/>
                                 <autoresizingMask key="autoresizingMask"/>
                             </imageView>
                         </subviews>
